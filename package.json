@@ -1,5 +1,5 @@
 {
-  "name": "photo-gallery",
+  "name": "springmicro-photo-gallery",
   "version": "4.16.0",
   "private": false,
   "description": "A customizable photo gallery component for React",
